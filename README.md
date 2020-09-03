@@ -2,7 +2,7 @@
 
 Rust utility do display file system usage.
 
-Docker image based on rust:1.45-alpine3.12 and dutree version 0.2.16
+Docker image based on frolvlad/alpine-glibc:alpine-3.12_glibc-2.32 and dutree version 0.2.15
 
 https://github.com/nachoparker/dutree.git
 
